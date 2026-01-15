@@ -72,5 +72,8 @@ The ETL solution contains individual packages for each dimensional and fact tabl
 5. Execute dimension packages in the correct order
 6. Execute the `FactSales` package
 
-## **✍ Author**
-**Mostafa Elrkhawy**
+## 👨‍💻 Author
+**Mostafa ElRkhawy**  
+_Data Analyst | Python | Power BI | SQL | Excel_
+
+📧 **Contact:** [LinkedIn Profile](https://www.linkedin.com/in/mostafa-elrkhawy) | [Gmail](mailto:mostafaelrkhawy7@gmail.com)
